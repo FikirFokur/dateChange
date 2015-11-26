@@ -1,8 +1,8 @@
 /*
  * jQuery Date Format Changer v1.0
  * 25 Nov 2015 Hakan Seysane - Fikir Fokur DSA
- * 
  */
+ 
 (function ($) {
 
     $.dateChange = function (settings, __date__) {
